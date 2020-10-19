@@ -1,0 +1,8 @@
+Warning[205] C:\USERS\YO\MPLABXPROJECTS\PRUEBA.X\PRUEB1.ASM 2 : Found directive in column 1. (__CONFIG)
+Warning[203] C:\USERS\YO\MPLABXPROJECTS\PRUEBA.X\PRUEB1.ASM 5 : Found opcode in column 1. (GOTO)
+Warning[207] C:\USERS\YO\MPLABXPROJECTS\PRUEBA.X\PRUEB1.ASM 13 : Found label after column 1. (START)
+Message[302] C:\USERS\YO\MPLABXPROJECTS\PRUEBA.X\PRUEB1.ASM 20 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\YO\MPLABXPROJECTS\PRUEBA.X\PRUEB1.ASM 36 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\PRUEBA.X\PRUEB1.ASM 38 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\PRUEBA.X\PRUEB1.ASM 40 : Using default destination of 1 (file).
+Warning[205] C:\USERS\YO\MPLABXPROJECTS\PRUEBA.X\PRUEB1.ASM 43 : Found directive in column 1. (END)
